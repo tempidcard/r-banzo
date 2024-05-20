@@ -1,0 +1,30 @@
+git实验题如下： 
+1、完成git的具体命令操作步骤。要求在本地建立一个工程，写一个.java文件，并上传至本地版本库，推送到团队的远程仓库上。要求有必要的文字说明。 
+2、如何判断分支是否已经合并在master上 
+3、gitFlow的分支策略 
+4、如何创建仓库？ 
+5、如何解决合并冲突问题？ 
+6、如何把代码库上的文件完全覆盖本地版本 
+7、如何搭建自己公司的git仓库（非github、gitee远程仓库）---自建git服务器（了解、也了解gitlab是工具） 
+8、git可视化工具使用和git命令式工具使用 
+9、git checkout 命令可以实现哪些功能？
+10、合并其中一个feature分支有哪几种实现方式？ 
+11、git pull和git fetch的区别 
+12、如何将develop分支的commitID复制到当前分支 
+13、如何给git项目打上tag标签，版本递升的规范？ 
+
+资源1：查看菜鸟教程--git教程 https://www.runoob.com/git/git-tutorial.html 
+2、查看git工具快速入门https://blog.csdn.net/weixin_46277553/article/details/125492569?spm=1001.2014.3001.5506 
+3、查看 https://www.cnblogs.com/imyalost/p/9301732.html 
+	搜索 Git分支管理规范 - 老_张 - 博客园 
+4、查看https://blog.csdn.net/weixin_42092278/article/details/90448721 
+	搜索 一篇文章搞定Git——Git代码管理及使用规范 csdn 
+5、查看 
+	csdn上搜索“战斧”此人的博客里git的内容，有图容易理解。 
+	“手把手教你安装Git，萌新迈向专业的必备一步”
+	“GIT实战篇，教你如何使用GIT可视化工具” 
+6、团队协作使用git的内容资源如下： 
+	查看 
+	搜索 Git教程 廖雪峰官方网站 多人协作这一页内容https://www.liaoxuefeng.com/wiki/896043488029600/900375748016320 
+7、查看
+	团队git使用教程 博客园 https://www.cnblogs.com/sochishun/p/7496350.html 
